@@ -13,7 +13,7 @@
 Topic: Hello World & Pattern Printing
 
 Hello, GitHub!
-Welcome to my java swries + DSA Journey.
+Welcome to my java series + DSA Journey.
 
 Pattern:
 
