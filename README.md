@@ -13,7 +13,7 @@
 Topic: Hello World & Pattern Printing
 
 Hello, GitHub!
-Welcome to my 30-Day Java + DSA Journey.
+Welcome to my java swries + DSA Journey.
 
 Pattern:
 
