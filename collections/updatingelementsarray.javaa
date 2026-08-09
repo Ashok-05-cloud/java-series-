@@ -1,0 +1,16 @@
+import java.util.ArrayList;
+
+public class UpdateElements {
+
+    public static void main(String[] args) {
+
+        ArrayList<String> cities = new ArrayList<>();
+
+        cities.add("Delhi");
+        cities.add("Hyderabad");
+
+        cities.set(1, "Bangalore");
+
+        System.out.println(cities);
+    }
+}
