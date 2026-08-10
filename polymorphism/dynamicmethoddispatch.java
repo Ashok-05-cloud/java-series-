@@ -1,15 +1,15 @@
-class Animal {
+class Vehicle {
 
-    void sound() {
-        System.out.println("Animal makes a sound");
+    void start() {
+        System.out.println("Vehicle starts");
     }
 }
 
-class Dog extends Animal {
+class Bike extends Vehicle {
 
     @Override
-    void sound() {
-        System.out.println("Dog barks");
+    void start() {
+        System.out.println("Bike starts with self-start");
     }
 }
 
@@ -17,8 +17,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Animal a = new Dog();
+        Vehicle v = new Bike();
 
-        a.sound();
+        v.start();
     }
 }
