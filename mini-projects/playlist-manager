@@ -1,0 +1,19 @@
+import java.util.LinkedList;
+
+public class PlaylistManager {
+
+    public static void main(String[] args) {
+
+        LinkedList<String> songs = new LinkedList<>();
+
+        songs.add("Song 1");
+        songs.add("Song 2");
+        songs.add("Song 3");
+
+        System.out.println("Playlist:");
+
+        for (String song : songs) {
+            System.out.println(song);
+        }
+    }
+}
