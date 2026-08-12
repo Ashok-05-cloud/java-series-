@@ -85,7 +85,7 @@ I am continuously adding programs, concepts, exercises, and DSA problems as I pr
 - [ ] Binary Search Tree
 - [ ] Heap
 - [ ] Graphs
-- [ ] Trie
+- [ ] 🎄 trees
 
 ### 🔴 Phase 5 — Algorithms
 
